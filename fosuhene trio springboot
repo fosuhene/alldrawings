@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T03:21:02.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.1" etag="PY32qePU6G-R93nTa_Pj" type="github"><diagram id="34LD2yEMD31FqahkwuD9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-17T03:30:09.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Vqe_LSsRKGNY4JZV2czK" version="20.4.1" type="github">
+  <diagram id="34LD2yEMD31FqahkwuD9" name="Page-1">
+    <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-2" value="API Layer / Controller Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="235" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-3" value="HTTP, GET, POST, DELETE, PUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="208" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-4" value="Service Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="355" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-5" value="BUSINESS LOGIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-6" value="Data Access Layer (dao)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-7" value="DATABASE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="466" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-8" value="REQUEST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-9" value="RESPONSE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="165" as="sourcePoint" />
+            <mxPoint x="414" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="275" as="sourcePoint" />
+            <mxPoint x="413" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="410" as="sourcePoint" />
+            <mxPoint x="414" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-13" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="390" y="570" width="38.5" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="550" as="sourcePoint" />
+            <mxPoint x="414" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="620" as="sourcePoint" />
+            <mxPoint x="530" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="532" y="483" as="sourcePoint" />
+            <mxPoint x="532" y="403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="350" as="sourcePoint" />
+            <mxPoint x="530" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="533" y="220" as="sourcePoint" />
+            <mxPoint x="533" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyYQ8_eeglpU8q-VF_aF-20" target="nyYQ8_eeglpU8q-VF_aF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
