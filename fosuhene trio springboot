@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T03:30:57.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9aclVze5v5f1ilcBSVN5" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T03:32:57.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RX_yvNaX7W7_HHckClWE" version="20.4.1" type="github">
   <diagram id="34LD2yEMD31FqahkwuD9" name="Page-1">
     <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,8 +85,11 @@
         <mxCell id="nyYQ8_eeglpU8q-VF_aF-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="30" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nyYQ8_eeglpU8q-VF_aF-22" value="Person" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-22" value="Person" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="700" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nyYQ8_eeglpU8q-VF_aF-23" value="Attributes&lt;br&gt;- ID&lt;br&gt;- Name&lt;br&gt;-Gender&lt;br&gt;-Address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="70" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
